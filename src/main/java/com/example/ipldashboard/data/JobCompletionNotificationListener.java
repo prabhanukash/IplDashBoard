@@ -21,6 +21,7 @@ import java.util.Map;
 public class JobCompletionNotificationListener extends JobExecutionListenerSupport {
 
     private static final Logger log = LoggerFactory.getLogger(JobCompletionNotificationListener.class);
+
     private final EntityManager em;
 
     @Autowired
