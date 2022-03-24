@@ -23,7 +23,7 @@ This project allows you to browse your favorite IPL teams and access their past 
 * Java Persistence API, Repositories and JPQL
 * HSQL DB
 * React JS
-* AWS BeanStalk
+* Heroku 
 
 ## Data Set Used
 https://www.kaggle.com/patrickb1912/ipl-complete-dataset-20082020/metadata
