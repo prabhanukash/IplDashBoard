@@ -1,4 +1,4 @@
-# IplDashBoard (https://tata-ipl-dashboard.herokuapp.com/)
+# [IplDashBoard](https://tata-ipl-dashboard.herokuapp.com/)
 This project is built by following a youtube tutorial of Java Brains. 
 This project allows you to browse your favorite IPL teams and access their past games details, wins and losses ratios- accessible by team and tournament year.
 
