@@ -6,15 +6,15 @@ This project allows you to browse your favorite IPL teams and access their past 
 
 ### Home Page
 
-![Home Page](/home-page.PNG)
+![Home Page](/home-page.png)
 
 ### Team Page
 
-![Team Page](/team-page.JPG)
+![Team Page](/team-page.jpg)
 
 ### Match Page
 
-![Match Page](/match-page.JPG)
+![Match Page](/matches-page.jpg)
 
 ## Technologies
 
